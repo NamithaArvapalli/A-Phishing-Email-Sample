@@ -1,0 +1,50 @@
+✅ Common Phishing Indicators
+1. Suspicious Sender Address
+Email appears to be from a known entity but uses a slightly altered or unusual domain (e.g., micr0soft.com, account-microsoft.xyz).
+Display name might say “Microsoft Support” but the actual email is something odd.
+
+2. Generic Greeting
+Phrases like “Dear User” or “Dear Customer” instead of using your real name.
+Legitimate organizations usually personalize emails.
+
+3. Urgent or Threatening Language
+Examples:
+“Your account will be suspended!”
+“Unauthorized login detected!”
+This creates panic and pushes you to act without thinking.
+
+4. Unexpected Attachments
+Phishing emails may include PDFs, Word files, or ZIP archives with malware.
+Never open attachments unless you're sure they’re safe.
+
+5. Suspicious or Mismatched Links
+The displayed text says one thing (e.g., https://microsoft.com), but hovering reveals a different, malicious domain.
+Use hover-to-preview or right-click and copy to inspect.
+
+6. Spelling and Grammar Errors
+Phishing emails often contain awkward grammar, typos, or inconsistent formatting.
+
+7. Requests for Sensitive Information
+Legitimate companies never ask for passwords, OTPs, or credit card numbers via email.
+Phrases like “verify your identity” or “confirm your login details” are red flags.
+
+8. Too Good to Be True Offers
+Examples:
+“You’ve won a prize!”
+“Get free money / gift cards”
+These play on curiosity and greed.
+
+9. Fake or Missing Branding
+Logos may look off, blurry, or missing entirely.
+The email design may not match the company’s typical communication style.
+
+10. Unusual Timing or Context
+Receiving an email about a service you don’t use or at a strange time (e.g., midnight).
+Email claims you’ve made a purchase or login you don’t recognize.
+
+
+Bonus: Technical Indicators in Email Headers
+(For advanced users)
+Mismatched “From” and “Reply-To” addresses.
+IP addresses that don’t match the sender’s actual domain.
+Failing SPF, DKIM, or DMARC checks.
