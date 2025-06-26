@@ -1,5 +1,5 @@
 ## A-Phishing-Email-Sample
-Cybersecurity Internship ##Day-2
+Cybersecurity Internship ##Task-2
 
 This repository contains an analysis of a sample phishing email. The objective is to identify key phishing indicators and raise awareness about common email-based threats.
 
